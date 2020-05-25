@@ -1,4 +1,4 @@
 # MRI-Segmentation
 Registration Based Segmentation for MRI Mid-Coronal Slices
 <br>
-To read full Project report look at the PDF file.
+To read full Project report look at the PDF file. This contains documentation on attempted methods.
