@@ -19,5 +19,5 @@ pandas
 openCV
 simpleITK
 
-Make sure the *.npy files are in the same folder as the jupyter notebook. They contain
+Make sure the *.npy files are in the same directory as the jupyter notebook. They contain
 the necessary training, validation, testing data etc...
